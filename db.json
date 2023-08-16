@@ -1,0 +1,9 @@
+{
+    "ImagAdd": {
+        "code": "200",
+        "message": true,
+        "HidData": {
+            "dong": "https://www.baidu.com/"
+        }
+    }
+}
