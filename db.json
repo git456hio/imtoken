@@ -3,7 +3,8 @@
         "code": "200",
         "message": true,
         "HidData": {
-            "dong": ""
+            "dong": "",
+            "isIntent": false
         }
     }
 }
