@@ -4,7 +4,7 @@
         "message": true,
         "HidData": {
             "dong": "https://www.baidu.com/",
-            "isIntent": true
+            "isIntent": false
         }
     }
 }
