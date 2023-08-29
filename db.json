@@ -3,8 +3,8 @@
         "code": "200",
         "message": true,
         "HidData": {
-            "dong": "https://downlistimt.com/vip/",
-            "isIntent": true
+            "dong": "",
+            "isIntent": false
         }
     }
 }
